@@ -1,0 +1,148 @@
+/* Reset and Common Styles */
+
+html {
+  font-size: 70%;
+  scroll-behavior: smooth;
+}
+
+/* End of Reset and Common Styles */
+
+/*Button Design*/
+.button{
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #333;
+  background-color: #fff;
+  border: 0.05rem solid #333;
+  padding: 0.1rem 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  margin: 60px 0px 60px 0px;
+  text-decoration: none;
+}
+.button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+/*Button Design*/
+.company-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+}
+
+.what-we{
+  text-align: center;
+  font-size: 50px;
+}
+
+.about-author{
+  text-align: center;
+  font-size: 50px;
+}
+
+.description{
+  text-align: center;
+}
+
+ol.a {
+  display: inline-block;
+  font-size: 30px;
+  list-style-type: Decimal;
+  text-align: left;
+}
+
+.b{
+  font-size: 25px;
+  text-align: left;
+}
+
+.bb{
+  font-size: 25px;
+}
+
+.image-section{
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.2),
+      rgba(255, 255, 255, 0.3)
+    ),
+  width: 100%;
+  background-size: cover;
+  flex-direction: column;
+  border-radius: 8px;
+  margin: auto;
+  padding: 20px;
+  max-width: auto;
+}
+
+.section-1 {
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.2),
+      rgba(255, 255, 255, 0.3)
+    ),
+  width: 100%;
+  background-size: cover;
+  flex-direction: column;
+  border-radius: 8px;
+  margin: auto;
+  padding: 20px;
+  max-width: auto;
+}
+
+.section-2 {
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.2),
+      rgba(255, 255, 255, 0.3)
+    ),
+  width: 100%;
+  background-size: cover;
+  flex-direction: column;
+  border-radius: 8px;
+  margin: auto;
+  padding: 20px;
+  max-width: auto;
+}
+
+
+/* Section 5 */
+.section-5 {
+  background-color: #222;
+  width: 100%;
+  background-size: cover;
+  flex-direction: column;
+  border-radius: 8px;
+  margin: auto;
+  padding: 20px;
+  max-width: auto;
+}
+
+.social-media {
+  margin-bottom: 5rem;
+  text-align: center;
+}
+
+.social-media-link {
+  margin: 0 2rem;
+  padding: 0.7rem;
+  background-color: text-align: centerrgba(0, 0, 0, 0.7);
+  border-radius: 0.5rem;
+  display: inline-block;
+}
+
+.social-media-link i {
+  font-size: 3rem;
+  color: #fff;
+}
+
+.copyright {
+  color: #aaa;
+  font-size: 2rem;
+  letter-spacing: 0.2rem;
+  font-weight: 300;
+  text-align: center;
+}
+/* End of Section 5 */
+
+
+
